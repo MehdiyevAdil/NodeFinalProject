@@ -1,0 +1,19 @@
+{
+    "name": "Adil Mehdiyev",
+    "age": 29,
+    "Job": "Developer",    
+    "contact": {
+      "email": "adil.mehdiyev95@mail.com",
+      "telefon": "+994702676167",
+      "adres": "6 House Mahmudov Street, Baku, AZE"
+    },
+    "media": {
+      "Instagram": "https://www.instagram.com/mehdiyev.adil95/",
+      "linkedin": "https://www.linkedin.com/in/adelmehdiyev95/",
+      "github": "https://github.com/MehdiyevAdil"
+    },
+    "hobbies": ["Coffee", "DrumBass"],
+    "profil_photo": "https://example.com/johndoe.jpg",
+    "biography": " I was born on February 24, 1995 in Baku Azerbaijan.Always hardworking."
+  }
+  

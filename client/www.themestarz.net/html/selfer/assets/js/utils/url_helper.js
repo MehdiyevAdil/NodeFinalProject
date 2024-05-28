@@ -1,0 +1,3 @@
+const CATEGORY_ENDPOINT='/categories';
+const DEFOULT_ENDPOINT='/';
+module.exports={DEFOULT_ENDPOINT,CATEGORY_ENDPOINT} ;
